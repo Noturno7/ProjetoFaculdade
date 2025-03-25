@@ -1,0 +1,241 @@
+data,posto,nome_combustivel,preco_medio
+2025-03-12,Posto Atlantica,Diesel,6.33
+2025-03-12,Posto Atlantica,Etanol,4.43
+2025-03-12,Posto Atlantica,Gasolina,6.37
+2025-03-12,Posto Atlantica,Gasolina Aditivada,6.65
+2025-03-12,Posto Ipiranga,Diesel,6.35
+2025-03-12,Posto Ipiranga,Etanol,4.45
+2025-03-12,Posto Ipiranga,Gasolina,6.4
+2025-03-12,Posto Ipiranga,Gasolina Aditivada,6.7
+2025-03-12,Posto Petrobras,Diesel,6.31
+2025-03-12,Posto Petrobras,Etanol,4.41
+2025-03-12,Posto Petrobras,Gasolina,6.36
+2025-03-12,Posto Petrobras,Gasolina Aditivada,6.62
+2025-03-12,Posto Saturnino,Diesel,6.32
+2025-03-12,Posto Saturnino,Etanol,4.42
+2025-03-12,Posto Saturnino,Gasolina,6.35
+2025-03-12,Posto Saturnino,Gasolina Aditivada,6.6
+2025-03-12,Posto Shell,Diesel,6.3
+2025-03-12,Posto Shell,Etanol,4.4
+2025-03-12,Posto Shell,Gasolina,6.38
+2025-03-12,Posto Shell,Gasolina Aditivada,6.63
+2025-03-12,Posto Torres,Diesel,6.34
+2025-03-12,Posto Torres,Etanol,4.44
+2025-03-12,Posto Torres,Gasolina,6.39
+2025-03-12,Posto Torres,Gasolina Aditivada,6.66
+2025-03-13,Posto Atlantica,Diesel,6.29
+2025-03-13,Posto Atlantica,Etanol,4.39
+2025-03-13,Posto Atlantica,Gasolina,6.33
+2025-03-13,Posto Atlantica,Gasolina Aditivada,6.58
+2025-03-13,Posto Ipiranga,Diesel,6.3
+2025-03-13,Posto Ipiranga,Etanol,4.4
+2025-03-13,Posto Ipiranga,Gasolina,6.34
+2025-03-13,Posto Ipiranga,Gasolina Aditivada,6.6
+2025-03-13,Posto Petrobras,Diesel,6.32
+2025-03-13,Posto Petrobras,Etanol,4.41
+2025-03-13,Posto Petrobras,Gasolina,6.35
+2025-03-13,Posto Petrobras,Gasolina Aditivada,6.62
+2025-03-13,Posto Saturnino,Diesel,6.28
+2025-03-13,Posto Saturnino,Etanol,4.38
+2025-03-13,Posto Saturnino,Gasolina,6.32
+2025-03-13,Posto Saturnino,Gasolina Aditivada,6.57
+2025-03-13,Posto Shell,Diesel,6.27
+2025-03-13,Posto Shell,Etanol,4.37
+2025-03-13,Posto Shell,Gasolina,6.31
+2025-03-13,Posto Shell,Gasolina Aditivada,6.55
+2025-03-13,Posto Torres,Diesel,6.33
+2025-03-13,Posto Torres,Etanol,4.43
+2025-03-13,Posto Torres,Gasolina,6.37
+2025-03-13,Posto Torres,Gasolina Aditivada,6.65
+2025-03-14,Posto Atlantica,Diesel,6.34
+2025-03-14,Posto Atlantica,Etanol,4.44
+2025-03-14,Posto Atlantica,Gasolina,6.39
+2025-03-14,Posto Atlantica,Gasolina Aditivada,6.66
+2025-03-14,Posto Ipiranga,Diesel,6.3
+2025-03-14,Posto Ipiranga,Etanol,4.4
+2025-03-14,Posto Ipiranga,Gasolina,6.38
+2025-03-14,Posto Ipiranga,Gasolina Aditivada,6.61
+2025-03-14,Posto Petrobras,Diesel,6.36
+2025-03-14,Posto Petrobras,Etanol,4.45
+2025-03-14,Posto Petrobras,Gasolina,6.4
+2025-03-14,Posto Petrobras,Gasolina Aditivada,6.7
+2025-03-14,Posto Saturnino,Diesel,6.32
+2025-03-14,Posto Saturnino,Etanol,4.42
+2025-03-14,Posto Saturnino,Gasolina,6.36
+2025-03-14,Posto Saturnino,Gasolina Aditivada,6.63
+2025-03-14,Posto Shell,Diesel,6.28
+2025-03-14,Posto Shell,Etanol,4.39
+2025-03-14,Posto Shell,Gasolina,6.37
+2025-03-14,Posto Shell,Gasolina Aditivada,6.6
+2025-03-14,Posto Torres,Diesel,6.31
+2025-03-14,Posto Torres,Etanol,4.41
+2025-03-14,Posto Torres,Gasolina,6.35
+2025-03-14,Posto Torres,Gasolina Aditivada,6.62
+2025-03-15,Posto Atlantica,Diesel,6.3
+2025-03-15,Posto Atlantica,Etanol,4.4
+2025-03-15,Posto Atlantica,Gasolina,6.34
+2025-03-15,Posto Atlantica,Gasolina Aditivada,6.61
+2025-03-15,Posto Ipiranga,Diesel,6.32
+2025-03-15,Posto Ipiranga,Etanol,4.41
+2025-03-15,Posto Ipiranga,Gasolina,6.36
+2025-03-15,Posto Ipiranga,Gasolina Aditivada,6.62
+2025-03-15,Posto Petrobras,Diesel,6.35
+2025-03-15,Posto Petrobras,Etanol,4.44
+2025-03-15,Posto Petrobras,Gasolina,6.39
+2025-03-15,Posto Petrobras,Gasolina Aditivada,6.68
+2025-03-15,Posto Saturnino,Diesel,6.28
+2025-03-15,Posto Saturnino,Etanol,4.38
+2025-03-15,Posto Saturnino,Gasolina,6.32
+2025-03-15,Posto Saturnino,Gasolina Aditivada,6.58
+2025-03-15,Posto Shell,Diesel,6.27
+2025-03-15,Posto Shell,Etanol,4.37
+2025-03-15,Posto Shell,Gasolina,6.31
+2025-03-15,Posto Shell,Gasolina Aditivada,6.55
+2025-03-15,Posto Torres,Diesel,6.33
+2025-03-15,Posto Torres,Etanol,4.42
+2025-03-15,Posto Torres,Gasolina,6.37
+2025-03-15,Posto Torres,Gasolina Aditivada,6.65
+2025-03-16,Posto Atlantica,Diesel,6.29
+2025-03-16,Posto Atlantica,Etanol,4.39
+2025-03-16,Posto Atlantica,Gasolina,6.33
+2025-03-16,Posto Atlantica,Gasolina Aditivada,6.58
+2025-03-16,Posto Ipiranga,Diesel,6.31
+2025-03-16,Posto Ipiranga,Etanol,4.41
+2025-03-16,Posto Ipiranga,Gasolina,6.35
+2025-03-16,Posto Ipiranga,Gasolina Aditivada,6.62
+2025-03-16,Posto Petrobras,Diesel,6.33
+2025-03-16,Posto Petrobras,Etanol,4.42
+2025-03-16,Posto Petrobras,Gasolina,6.38
+2025-03-16,Posto Petrobras,Gasolina Aditivada,6.65
+2025-03-16,Posto Saturnino,Diesel,6.25
+2025-03-16,Posto Saturnino,Etanol,4.35
+2025-03-16,Posto Saturnino,Gasolina,6.3
+2025-03-16,Posto Saturnino,Gasolina Aditivada,6.54
+2025-03-16,Posto Shell,Diesel,6.27
+2025-03-16,Posto Shell,Etanol,4.37
+2025-03-16,Posto Shell,Gasolina,6.31
+2025-03-16,Posto Shell,Gasolina Aditivada,6.56
+2025-03-16,Posto Torres,Diesel,6.25
+2025-03-16,Posto Torres,Etanol,4.35
+2025-03-16,Posto Torres,Gasolina,6.3
+2025-03-16,Posto Torres,Gasolina Aditivada,6.53
+2025-03-17,Posto Atlantica,Diesel,6.26
+2025-03-17,Posto Atlantica,Etanol,4.36
+2025-03-17,Posto Atlantica,Gasolina,6.31
+2025-03-17,Posto Atlantica,Gasolina Aditivada,6.55
+2025-03-17,Posto Ipiranga,Diesel,6.35
+2025-03-17,Posto Ipiranga,Etanol,4.45
+2025-03-17,Posto Ipiranga,Gasolina,6.39
+2025-03-17,Posto Ipiranga,Gasolina Aditivada,6.67
+2025-03-17,Posto Petrobras,Diesel,6.31
+2025-03-17,Posto Petrobras,Etanol,4.41
+2025-03-17,Posto Petrobras,Gasolina,6.35
+2025-03-17,Posto Petrobras,Gasolina Aditivada,6.61
+2025-03-17,Posto Saturnino,Diesel,6.32
+2025-03-17,Posto Saturnino,Etanol,4.41
+2025-03-17,Posto Saturnino,Gasolina,6.36
+2025-03-17,Posto Saturnino,Gasolina Aditivada,6.61
+2025-03-17,Posto Shell,Diesel,6.33
+2025-03-17,Posto Shell,Etanol,4.42
+2025-03-17,Posto Shell,Gasolina,6.37
+2025-03-17,Posto Shell,Gasolina Aditivada,6.64
+2025-03-17,Posto Torres,Diesel,6.25
+2025-03-17,Posto Torres,Etanol,4.35
+2025-03-17,Posto Torres,Gasolina,6.3
+2025-03-17,Posto Torres,Gasolina Aditivada,6.53
+2025-03-18,Posto Atlantica,Diesel,6.34
+2025-03-18,Posto Atlantica,Etanol,4.43
+2025-03-18,Posto Atlantica,Gasolina,6.38
+2025-03-18,Posto Atlantica,Gasolina Aditivada,6.66
+2025-03-18,Posto Ipiranga,Diesel,6.36
+2025-03-18,Posto Ipiranga,Etanol,4.45
+2025-03-18,Posto Ipiranga,Gasolina,6.4
+2025-03-18,Posto Ipiranga,Gasolina Aditivada,6.7
+2025-03-18,Posto Petrobras,Diesel,6.32
+2025-03-18,Posto Petrobras,Etanol,4.41
+2025-03-18,Posto Petrobras,Gasolina,6.36
+2025-03-18,Posto Petrobras,Gasolina Aditivada,6.63
+2025-03-18,Posto Saturnino,Diesel,6.32
+2025-03-18,Posto Saturnino,Etanol,4.41
+2025-03-18,Posto Saturnino,Gasolina,6.35
+2025-03-18,Posto Saturnino,Gasolina Aditivada,6.62
+2025-03-18,Posto Shell,Diesel,6.28
+2025-03-18,Posto Shell,Etanol,4.38
+2025-03-18,Posto Shell,Gasolina,6.32
+2025-03-18,Posto Shell,Gasolina Aditivada,6.58
+2025-03-18,Posto Torres,Diesel,6.25
+2025-03-18,Posto Torres,Etanol,4.35
+2025-03-18,Posto Torres,Gasolina,6.3
+2025-03-18,Posto Torres,Gasolina Aditivada,6.54
+2025-03-19,Posto Atlantica,Diesel,6.34
+2025-03-19,Posto Atlantica,Etanol,4.35
+2025-03-19,Posto Atlantica,Gasolina,6.37
+2025-03-19,Posto Atlantica,Gasolina Aditivada,6.67
+2025-03-19,Posto Ipiranga,Diesel,6.32
+2025-03-19,Posto Ipiranga,Etanol,4.4
+2025-03-19,Posto Ipiranga,Gasolina,6.39
+2025-03-19,Posto Ipiranga,Gasolina Aditivada,6.54
+2025-03-19,Posto Petrobras,Diesel,6.3
+2025-03-19,Posto Petrobras,Etanol,4.39
+2025-03-19,Posto Petrobras,Gasolina,6.36
+2025-03-19,Posto Petrobras,Gasolina Aditivada,6.61
+2025-03-19,Posto Saturnino,Diesel,6.3
+2025-03-19,Posto Saturnino,Etanol,4.38
+2025-03-19,Posto Saturnino,Gasolina,6.37
+2025-03-19,Posto Saturnino,Gasolina Aditivada,6.63
+2025-03-19,Posto Shell,Diesel,6.35
+2025-03-19,Posto Shell,Etanol,4.42
+2025-03-19,Posto Shell,Gasolina,6.33
+2025-03-19,Posto Shell,Gasolina Aditivada,6.61
+2025-03-19,Posto Torres,Diesel,6.27
+2025-03-19,Posto Torres,Etanol,4.42
+2025-03-19,Posto Torres,Gasolina,6.31
+2025-03-19,Posto Torres,Gasolina Aditivada,6.53
+2025-03-20,Posto Atlantica,Diesel,6.37
+2025-03-20,Posto Atlantica,Etanol,4.36
+2025-03-20,Posto Atlantica,Gasolina,6.33
+2025-03-20,Posto Atlantica,Gasolina Aditivada,6.54
+2025-03-20,Posto Ipiranga,Diesel,6.25
+2025-03-20,Posto Ipiranga,Etanol,4.4
+2025-03-20,Posto Ipiranga,Gasolina,6.42
+2025-03-20,Posto Ipiranga,Gasolina Aditivada,6.64
+2025-03-20,Posto Petrobras,Diesel,6.34
+2025-03-20,Posto Petrobras,Etanol,4.25
+2025-03-20,Posto Petrobras,Gasolina,6.24
+2025-03-20,Posto Petrobras,Gasolina Aditivada,6.52
+2025-03-20,Posto Saturnino,Diesel,6.32
+2025-03-20,Posto Saturnino,Etanol,4.38
+2025-03-20,Posto Saturnino,Gasolina,6.38
+2025-03-20,Posto Saturnino,Gasolina Aditivada,6.57
+2025-03-20,Posto Shell,Diesel,6.26
+2025-03-20,Posto Shell,Etanol,4.43
+2025-03-20,Posto Shell,Gasolina,6.4
+2025-03-20,Posto Shell,Gasolina Aditivada,6.51
+2025-03-20,Posto Torres,Diesel,6.28
+2025-03-20,Posto Torres,Etanol,4.4
+2025-03-20,Posto Torres,Gasolina,6.31
+2025-03-20,Posto Torres,Gasolina Aditivada,6.52
+2025-03-21,Posto Atlantica,Diesel,6.28
+2025-03-21,Posto Atlantica,Etanol,4.38
+2025-03-21,Posto Atlantica,Gasolina,6.36
+2025-03-21,Posto Atlantica,Gasolina Aditivada,6.63
+2025-03-21,Posto Ipiranga,Diesel,6.32
+2025-03-21,Posto Ipiranga,Etanol,4.42
+2025-03-21,Posto Ipiranga,Gasolina,6.38
+2025-03-21,Posto Ipiranga,Gasolina Aditivada,6.53
+2025-03-21,Posto Petrobras,Diesel,6.33
+2025-03-21,Posto Petrobras,Etanol,4.36
+2025-03-21,Posto Petrobras,Gasolina,6.35
+2025-03-21,Posto Petrobras,Gasolina Aditivada,6.52
+2025-03-21,Posto Saturnino,Diesel,6.26
+2025-03-21,Posto Saturnino,Etanol,4.43
+2025-03-21,Posto Saturnino,Gasolina,6.38
+2025-03-21,Posto Saturnino,Gasolina Aditivada,6.59
+2025-03-21,Posto Shell,Diesel,6.35
+2025-03-21,Posto Shell,Etanol,4.36
+2025-03-21,Posto Shell,Gasolina,6.35
+2025-03-21,Posto Shell,Gasolina Aditivada,6.65
+2025-03-21,Posto Torres,Diesel,6.35
+2025-03-21,Posto Torres,Etanol,4.39
+2025-03-21,Posto Torres,Gasolina,6.38
+2025-03-21,Posto Torres,Gasolina Aditivada,6.6
